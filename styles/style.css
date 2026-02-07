@@ -42,6 +42,8 @@ html {
 .content {
   display: flex;
   padding-top: 133px;
+  align-self: center;
+  justify-self: center;
   align-items: end;
   width: 1140px;
 }
